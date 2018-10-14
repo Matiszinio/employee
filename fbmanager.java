@@ -16,7 +16,6 @@ public class fbmanager extends manager {
         if(isHire()==true) {
             for (double i = budget; i <= 15_000; i = i - salary) {
                 employeeCount++;
-                1213123123123123;
             }
         }
     } - IS THAT CORRECT? */
