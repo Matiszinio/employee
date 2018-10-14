@@ -3,7 +3,7 @@ public class fbmanager extends manager {
         super(name, salary);
     }
 
-    private double budget = 100_000;
+    private double budget = 100000;
     private double sum = 0;
 
     public void Hire() {
